@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7af9f776-9647-4bd3-833f-0d6dae16815b" name="Changes" comment="added lab001">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex.05062024/Lab002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex.05062024/Lab003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex.05062024/Lab004.py" afterDir="false" />
+    <list default="true" id="7af9f776-9647-4bd3-833f-0d6dae16815b" name="Changes" comment="for 5 june class">
+      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab013.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,10 +52,11 @@
     "Python.Lab002.executor": "Run",
     "Python.Lab003.executor": "Run",
     "Python.Lab004.executor": "Run",
+    "Python.Lab013.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -85,11 +83,20 @@
       <option name="project" value="LOCAL" />
       <updated>1717383533929</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="for 5 june class">
+      <option name="closed" value="true" />
+      <created>1717555739027</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717555739027</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added lab001" />
-    <option name="LAST_COMMIT_MESSAGE" value="added lab001" />
+    <MESSAGE value="for 5 june class" />
+    <option name="LAST_COMMIT_MESSAGE" value="for 5 june class" />
   </component>
 </project>
