@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7af9f776-9647-4bd3-833f-0d6dae16815b" name="Changes" comment="for 7 june class">
-      <change afterPath="$PROJECT_DIR$/Ex.10062024/Lab025.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex.10062024/Lab026.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+    <list default="true" id="7af9f776-9647-4bd3-833f-0d6dae16815b" name="Changes" comment="for 10 june class">
+      <change afterPath="$PROJECT_DIR$/Ex.10062024/Lab027.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,13 +102,22 @@
       <option name="project" value="LOCAL" />
       <updated>1717728546531</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="for 10 june class">
+      <option name="closed" value="true" />
+      <created>1717988003713</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717988003713</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added lab001" />
     <MESSAGE value="for 5 june class" />
     <MESSAGE value="for 7 june class" />
-    <option name="LAST_COMMIT_MESSAGE" value="for 7 june class" />
+    <MESSAGE value="for 10 june class" />
+    <option name="LAST_COMMIT_MESSAGE" value="for 10 june class" />
   </component>
 </project>
