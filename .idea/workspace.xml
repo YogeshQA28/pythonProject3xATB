@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7af9f776-9647-4bd3-833f-0d6dae16815b" name="Changes" comment="for 10 june class">
-      <change afterPath="$PROJECT_DIR$/Ex.10062024/Lab027.py" afterDir="false" />
+    <list default="true" id="7af9f776-9647-4bd3-833f-0d6dae16815b" name="Changes" comment="for 10 june again class">
+      <change afterPath="$PROJECT_DIR$/Ex_012062024/Lab038.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_012062024/Lab039.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_012062024/Lab043.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_012062024/Lab045.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_012062024/Lab_041.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,12 +60,47 @@
     "Python.Lab013.executor": "Run",
     "Python.Lab025.executor": "Run",
     "Python.Lab026.executor": "Run",
+    "Python.Lab027.executor": "Run",
+    "Python.Lab038.executor": "Run",
+    "Python.Lab039.executor": "Run",
+    "Python.Lab043.executor": "Run",
+    "Python.Lab045.executor": "Debug",
+    "Python.Lab_041.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.gitlab.GitLabSettingsConfigurable"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Lab045" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject3xATB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_012062024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_012062024/Lab045.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Lab045" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -110,7 +149,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717988003713</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="for 10 june again class">
+      <option name="closed" value="true" />
+      <created>1717988077899</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717988077899</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -118,6 +165,7 @@
     <MESSAGE value="for 5 june class" />
     <MESSAGE value="for 7 june class" />
     <MESSAGE value="for 10 june class" />
-    <option name="LAST_COMMIT_MESSAGE" value="for 10 june class" />
+    <MESSAGE value="for 10 june again class" />
+    <option name="LAST_COMMIT_MESSAGE" value="for 10 june again class" />
   </component>
 </project>
